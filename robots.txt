@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://aspireconnect.in/sitemap.xml
