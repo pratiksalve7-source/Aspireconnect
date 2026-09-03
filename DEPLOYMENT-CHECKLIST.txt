@@ -1,0 +1,17 @@
+ASPIRE CONNECT — QUICK DEPLOYMENT
+
+[ ] Create GitHub repository: aspire-connect
+[ ] Upload the contents of this package to the repository root
+[ ] Import repository into Vercel
+[ ] Deploy and test the temporary Vercel URL
+[ ] Vercel → Project Settings → Domains → Add aspireconnect.in
+[ ] Copy Vercel's exact DNS instructions
+[ ] GoDaddy → Domain → DNS → enter the records Vercel provides
+[ ] Keep existing MX/email records intact
+[ ] Wait for DNS to propagate
+[ ] Confirm https://aspireconnect.in loads
+[ ] Test Home / Services / Industries / About / Contact
+[ ] Test mobile view
+[ ] Set up proper contact-form handling
+[ ] Add Privacy Policy / Terms
+[ ] Set up Google Search Console
