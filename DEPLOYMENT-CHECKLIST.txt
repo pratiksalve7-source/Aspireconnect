@@ -1,0 +1,14 @@
+ASPIRE CONNECT — NAVIGATION FIX
+
+1. Replace the files in GitHub with the contents of this package.
+2. Commit changes.
+3. Wait for Vercel to finish the automatic deployment.
+4. Hard refresh: Ctrl + F5.
+5. Test:
+   https://YOUR-VERCEL-DOMAIN/
+   https://YOUR-VERCEL-DOMAIN/services.html
+   https://YOUR-VERCEL-DOMAIN/industries.html
+   https://YOUR-VERCEL-DOMAIN/about.html
+   https://YOUR-VERCEL-DOMAIN/contact.html
+
+Once the Vercel test URL works correctly, connect aspireconnect.in.
